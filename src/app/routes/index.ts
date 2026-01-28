@@ -5,7 +5,7 @@ import { ClassRoutes } from '../modules/class/class.routes';
 
 
 
-
+// all application routes
 const router = express.Router();
 
 const moduleRoutes = [
